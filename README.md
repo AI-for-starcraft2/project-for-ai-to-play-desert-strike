@@ -1,4 +1,4 @@
-# design-for-ai-to-play-desert-strike
+# a-ai-to-play-desert-strike
 
 My friend said "It is useless for real ai to play a game by background api".
 
